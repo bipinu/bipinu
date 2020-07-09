@@ -1,7 +1,11 @@
-### Hi there 👋
+### Aloha muggles! 👋
+
 
 <!--
 **bipinu/bipinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am hacker, experimenter, and a storyteller based out on Amsterdam, NL.
+Currently working as an Architecht at TransIP BV, and 
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
